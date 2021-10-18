@@ -9,4 +9,5 @@
 9. it will cause an error: since let cannot be reached out of the for loop(the block), then it is not defined in line 11.
 10. it will output 3: since const length is defined in the function discountPrices, then it can be reached in line 12. Thus, it will just print out the lengh of prices list which is 3.
 11. it will return the list [ 50, 100, 150 ], which is the list of prices after discount. The for loop runs 3 times and each time it will calculated the discounted price of one of the original prices and push to the new list 'discounted'. It is "return" and will not show on the screen since not call console.log or others to print out.
-12. 
+12. A. student.name; B. student['Grad year']; C. student.greeting(); D. student['Favorite Teacher'].name; E. student.courseLoad[0];
+13. 
