@@ -1,1 +1,1 @@
-console.log('2' > 1);
+console.log(true === Boolean(2));
