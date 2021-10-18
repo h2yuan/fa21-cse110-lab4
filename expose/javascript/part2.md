@@ -29,4 +29,7 @@
     * E. false. true becomes 1, which does not equal to 2.
     * F. true. values that not intuitively "empty" becomes true, which functions to 2. Thus, true === true will no doubt results in true.
 15. == will checks the equality with type conversion, but === checks the equality without type conversion.
-16. 
+16. see the js file.
+17. it will return a new list [ 2, 4, 6 ]. For the for loop each number of the list [ 1, 2, 3] will call the callback function and runs the function. They will multiply 2, and then be pushed into the newArr. After the for loop ending, newArr will be returned.
+18. see the js file.
+19. 1 4 3 2
