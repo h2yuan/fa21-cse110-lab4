@@ -28,4 +28,5 @@
     * D. false. === checks the equality without type conversion. Different types result in false.
     * E. false. true becomes 1, which does not equal to 2.
     * F. true. values that not intuitively "empty" becomes true, which functions to 2. Thus, true === true will no doubt results in true.
-15. 
+15. == will checks the equality with type conversion, but === checks the equality without type conversion.
+16. 
